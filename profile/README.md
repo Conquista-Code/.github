@@ -1,18 +1,8 @@
-## Welcome to Conquista Code 👋
+## Welcome to Conquista Code
+
+![Conquista Code GIF](https://github.com/Conquista-Code/.github/blob/main/profile/conquista.gif)
 
 <!--
-
-**Here are some ideas to get you started:**
-
-[Standard Operating Procedure (SOP)](https://github.com/Conquista-Code/SOP)
-
-[Slideshow](https://github.com/Conquista-Code/Slideshow)
-
-[Topology-Visuals](https://github.com/Conquista-Code/Topology-Visuals)
-
-[System Selection](https://github.com/Conquista-Code/SystemSelection)
-
-[Team Agreement](https://github.com/Conquista-Code/TeamAgreement)
 
 
 🙋‍♀️ A short introduction - what is your organization all about?
@@ -23,12 +13,3 @@
 -->
 
 
-[Standard Operating Procedure (SOP)](https://github.com/Conquista-Code/SOP)
-
-[Slideshow](https://github.com/Conquista-Code/Slideshow)
-
-[Topology-Visuals](https://github.com/Conquista-Code/Topology-Visuals)
-
-[System Selection](https://github.com/Conquista-Code/SystemSelection)
-
-[Team Agreement](https://github.com/Conquista-Code/TeamAgreement)
