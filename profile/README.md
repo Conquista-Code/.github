@@ -45,4 +45,4 @@ The project materials consist of various crucial elements such as detailed step-
 
 [Presentation](https://github.com/Conquista-Code/Presentation)
 
-[Scripts](https://github.com/Conquista-Code/Documentation)
+[Scripts](https://github.com/Conquista-Code/Scripts)
