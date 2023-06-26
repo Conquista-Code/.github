@@ -1,12 +1,18 @@
 ## Welcome to Conquista Code
 
+#### Who are we: 
+We are cybersecurity professionals at Conquista Code, focused on integrating an acquired startup into an established IT system.
+
+#### What is this project about: 
+This project focuses on the implementation of VPCs, Windows Servers, and Active Directory systems to enhance collaboration and authentication within the IT infrastructure.
+
+#### Repositary material relation to project:
+The project materials consist of various crucial elements such as detailed step-by-step instructions, comprehensive information about the project's materials, a well-structured repository, and practical examples of usage. In addition, the documentation provides valuable troubleshooting tips and comprehensive support information. The main aim is to deliver professional and user-friendly guidance, ensuring clear understanding and effective utilization of the project's resources.
+
+<br>
 
 ![Conquista Code GIF](https://github.com/Conquista-Code/.github/blob/main/profile/conquista.gif)
 
-
-#### Here at Conquista Code our mission is to seamlessly integrate recently acquired startups into existing IT ecosystems.
-
-We'll set up VPCs, Windows Servers, and Active Directory systems to optimize collaboration and authentication. Get ready for a transformative journey as we revolutionize your IT infrastructure for success. Welcome to Conquista Code, where innovation meets integration!
 
 <br>
 
@@ -39,4 +45,4 @@ We'll set up VPCs, Windows Servers, and Active Directory systems to optimize col
 
 [Presentation](https://github.com/Conquista-Code/Presentation)
 
-[Documentation](https://github.com/Conquista-Code/Documentation)
+[Scripts](https://github.com/Conquista-Code/Documentation)
