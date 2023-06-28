@@ -7,7 +7,7 @@ We are cybersecurity professionals at Conquista Code, focused on integrating an 
 This project focuses on the implementation of VPCs, Windows Servers, and Active Directory systems to enhance collaboration and authentication within the IT infrastructure.
 
 #### Repositary material relation to project:
-The project materials consist of various crucial elements such as detailed step-by-step instructions, comprehensive information about the project's materials, a well-structured repository, and practical examples of usage. In addition, the documentation provides valuable troubleshooting tips and comprehensive support information. The main aim is to deliver professional and user-friendly guidance, ensuring clear understanding and effective utilization of the project's resources.
+The project materials consist of various crucial elements such as detailed step-by-step instructions, comprehensive information about the project's materials, and a well-structured repository. In addition, the documentation provides valuable troubleshooting tips and comprehensive support information. The main aim is to deliver professional and user-friendly guidance, ensuring clear understanding and effective utilization of the project's resources.
 
 <br>
 
